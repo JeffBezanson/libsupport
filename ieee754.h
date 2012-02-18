@@ -70,6 +70,6 @@ union ieee854_long_double {
 
 #define IEEE854_LONG_DOUBLE_BIAS 0x3fff
 
-#endif // ifdef __APPLE__ ...
+#endif
 
 #endif
