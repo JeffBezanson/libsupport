@@ -1,5 +1,5 @@
-#ifndef __IEEE754_H_
-#define __IEEE754_H_
+#ifndef IEEE754_H
+#define IEEE754_H
 
 #ifdef __linux
 
